@@ -26,11 +26,11 @@ To run the code in the provided Jupyter Notebook, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/candenizkocak/Scraping-Live-Formula-1-Commentary-from-Motorsport-Turkey-Website.git
+**git clone https://github.com/candenizkocak/Scraping-Live-Formula-1-Commentary-from-Motorsport-Turkey-Website.git**
 
 2. Install the required dependencies using pip:
 
-pip install beautifulsoup4 requests pandas
+**pip install beautifulsoup4 requests pandas**
 
 
 ## Usage
@@ -53,8 +53,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries about the project, please feel free to reach out to the project author:
+For any questions or inquiries about the project, please feel free to reach out to me:
 
-- Author: Your Name
-- Email: your-email@example.com
+- Author: Can Deniz Koçak
+- Email: c.dkocak@gmail.com
 
