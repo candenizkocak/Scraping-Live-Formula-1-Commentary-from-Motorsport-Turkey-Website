@@ -18,7 +18,7 @@ The project utilizes web scraping techniques to fetch real-time commentary from 
 The main steps of the project include:
 - Retrieving the HTML content of the live commentary page
 - Parsing the HTML to extract the relevant information, such as the time and the comment
-- Saving the extracted data to a file in a structured format (e.g., CSV or JSON)
+- Saving the extracted data to a .txt file
 
 ## Installation
 
@@ -26,11 +26,11 @@ To run the code in the provided Jupyter Notebook, follow these steps:
 
 1. Clone the repository:
 
-**git clone https://github.com/candenizkocak/Scraping-Live-Formula-1-Commentary-from-Motorsport-Turkey-Website.git**
+   `git clone https://github.com/candenizkocak/Scraping-Live-Formula-1-Commentary-from-Motorsport-Turkey-Website.git`
 
-2. Install the required dependencies using pip:
+3. Install the required dependencies using pip:
 
-**pip install beautifulsoup4 requests pandas**
+   `pip install beautifulsoup4 requests`
 
 
 ## Usage
